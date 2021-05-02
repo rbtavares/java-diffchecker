@@ -9,8 +9,6 @@ Java Diffchecker is a python-based script capable of veryfing expected java runt
 ![GitHub Repo stars](https://img.shields.io/github/stars/rafa-875/java-diffchecker?style=social)
 
 ## Credits & General Information
- - **Latest/Current Version:** 1.2.1
- - **Python:** Developed using 3.9.1 (presumably compatible with any 3.9.x python installation)
  - **Compatibility:** Windows 10, MacOS, Linux
  - **Contributors:** *[Tiago Neto](https://github.com/tiagofneto)*
 
