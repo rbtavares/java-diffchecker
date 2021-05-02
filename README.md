@@ -37,4 +37,4 @@ All the previous listed modules are part of the default python 3.9 installation,
 If the output of the program execution based on the input file given is not equal to the expected output, a line will appear showing: *the line where it occured*, *the output of the execution* and *the output expected for the matching line*. At the end of the execution the number of lines checked, lines which were not equal and lines which were equal will be displayed.
 
 ## Licensing
-Licensed unde thet [GNU GPL v3.0](LICENSE) license.
+Licensed under the [GNU GPL v3.0](LICENSE) license.
