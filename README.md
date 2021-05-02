@@ -2,11 +2,11 @@
 
 Java Diffchecker is a python-based script capable of veryfing expected java runtime outputs in mass using files.
 
-![Python](https://img.shields.io/static/v1?label=Python&message=3.9.1&color=orange)
+![Python](https://img.shields.io/static/v1?label=Python&message=3.9&color=orange)
 ![Base OS](https://img.shields.io/static/v1?label=Base%20OS&message=Win%2010&color=blue)
 ![Latest Release](https://img.shields.io/github/v/release/rafa-875/java-diffchecker?label=Latest)
-![GitHub last commit](https://img.shields.io/github/last-commit/rafa-875/java-diffchecker?label=Last%20Commit)
-![GitHub Repo stars](https://img.shields.io/github/stars/rafa-875/java-diffchecker?style=social)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/rafa-875/java-diffchecker?label=Last%20Commit)
+![GitHub Repo Stars](https://img.shields.io/github/stars/rafa-875/java-diffchecker?style=social)
 
 ## Credits & General Information
  - **Compatibility:** Windows 10, MacOS, Linux
