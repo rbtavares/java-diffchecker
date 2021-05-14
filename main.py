@@ -36,7 +36,7 @@ if len(argv) < 4:
 print('\033[92m\u2713\033[0m Successfully parsed the 3 required arguments given.')
 
 # Argument Parsing: Arg.1 - src directory
-paths['src'] = argv[1]
+paths['src'] = r'{}'.format(argv[1])
 
 if not os.path.isdir(paths['src']):
     print('\033[91m\u2717\033[0m Error: Invalid paths specified at arg1, directory was not found or is corrupted.\n' + usage)
@@ -52,7 +52,7 @@ if not paths['src'].endswith(dir_char):
     paths['src'] += dir_char
 
 # Argument Parsing: Arg.2 - tests directory
-paths['tests'] = argv[2]
+paths['tests'] = r'{}'.format(argv[2])
 
 if not os.path.isdir(paths['tests']):
     print('\033[91m\u2717\033[0mError: Invalid paths specified at arg2, directory was not found or is corrupted.\n' + usage)
