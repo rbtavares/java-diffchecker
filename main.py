@@ -141,7 +141,7 @@ lengths = [
 
 print("| {}{} | {}{} | {}{} |\n".format('Ln', ' ' * (lengths[0] - len('Ln')), 'Output', ' ' * (lengths[1] - len('Output')), 'Expected', ' ' * (lengths[2] - len('Expected'))))
 
-for i in range(max(len(output_execution), len(output_expected))-1):
+for i in range(max(len(output_execution), len(output_expected))):
 
     if i > len(output_execution)-1:
         output_execution.append('')
